@@ -12,7 +12,7 @@ Our goal is to transform the way people explore, understand, and dive into the w
 
 Here are the pages that we have designed and they will be helpful for you in understanding the overall design of this application. You have to make it accordingly and if changes are required then you can suggest us and we will redesign it.
 
-You can checkou the pages [here](pages).
+You can checkout the pages [here](pages).
 
 ## **How to Contribute?**
 
