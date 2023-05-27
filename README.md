@@ -8,6 +8,12 @@ As we continue to grow and evolve, we're eager to collaborate with talented desi
 
 Our goal is to transform the way people explore, understand, and dive into the world of literature. We envision Bloop as an immersive, intuitive, and engaging platform that will redefine the reading experience and author-reader interaction.
 
+## **Pages**
+
+Here are the pages that we have designed and they will be helpful for you in understanding the overall design of this application. You have to make it accordingly and if changes are required then you can suggest us and we will redesign it.
+
+You can checkou the pages [here](pages).
+
 ## **How to Contribute?**
 
 We're excited about your contribution and can't wait to see your innovative designs. Here's how you can participate:
