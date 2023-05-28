@@ -1,6 +1,6 @@
 # **Signup Page**
 
-This is the signup page that will take 
+This is the signup page that takes 
 
 - Email address
 - Password
@@ -16,7 +16,7 @@ This is the signup page that will take
 
 # **Login Page**
 
-This is the login page that will take
+This is the login page that takes
 
 - Email address / Username
 - Password
